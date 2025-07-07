@@ -9,7 +9,7 @@ While I wouldn’t call myself “proficient” yet, I *love exploring code* and
 
 - 🎶 [**Music Bot**](https://yuziro.pages.dev/) – Plays your favorite tunes right in your server  
 - 🧩 [**Management Bot**](https://yuziro.pages.dev/) – Simple server automation and utilities  
-- 🌐 [**My Website**](https://yuziro.pages.dev/) – Central hub for everything I do (projects, socials, contact)
+- 🌐 [**My Website**](https://yuziro.pages.dev/) – Central hub for everything I do ( socials, introduction )
 
 ---
 
