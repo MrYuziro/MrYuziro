@@ -1,39 +1,39 @@
-# Hey, I'm Yuziro! 👋
+# 👋 Hey there, I'm [Yuziro](https://yuziro.pages.dev/)!
 
-I'm an 18-year-old developer who creates all kinds of projects — sometimes simple, sometimes tough.  
-While I wouldn’t call myself a pro just yet, I love learning and building cool things.
-
----
-
-## 🚧 Projects I'm Working On
-
-- 🎵 **Music Bot** – Bringing music to your servers with style  
-- 🛠️ **Management Bot** – Tools to help keep things organized  
-- 🌐 **Website** – My personal page and project hub: [yuziro.pages.dev](https://yuziro.pages.dev/)
+🎯 I'm an 18-year-old indie developer who enjoys building both chill and challenging projects.  
+While I wouldn’t call myself “proficient” yet, I *love exploring code* and experimenting with new tools.
 
 ---
 
-## 💻 Tech Stack
+## ⚒️ What I’m Crafting
+
+- 🎶 [**Music Bot**](https://yuziro.pages.dev/) – Plays your favorite tunes right in your server  
+- 🧩 [**Management Bot**](https://yuziro.pages.dev/) – Simple server automation and utilities  
+- 🌐 [**My Website**](https://yuziro.pages.dev/) – Central hub for everything I do (projects, socials, contact)
+
+---
+
+## 🧠 Tech & Tools I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,html,css,python,typescript&perline=6" />
 </p>
 
-> Also using: **BOD2** (custom or niche tool)
+> Also exploring **BOD2** and other lesser-known gems.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Yuziro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrYuziro&show_icons=true&theme=github_dark)
 
 ---
 
-## 🌐 Contact & Socials
+## 🌍 Stay Connected
 
-- 📧 Email: [yuziro979@gmail.com](mailto:yuziro979@gmail.com)  
-- 🔗 Website & Socials: [https://yuziro.pages.dev/](https://yuziro.pages.dev/)
+- 📬 Reach me via [email](mailto:yuziro979@gmail.com)
+- 🧭 All my social links live at: [yuziro.pages.dev](https://yuziro.pages.dev/)
 
 ---
 
-*“I build. I learn. I experiment.”*
+> *“I build what I can’t find. Learn what I don’t know. Break stuff just to fix it better.”* 🚀
