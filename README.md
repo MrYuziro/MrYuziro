@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Yuziro](https://yuziro.pages.dev/)!
+# 👋 Hey there, I'm [Yuziro](/)!
 
 🎯 I'm an 18-year-old indie developer who enjoys building both chill and challenging projects.  
 While I wouldn’t call myself “proficient” yet, I *love exploring code* and experimenting with new tools.
@@ -7,9 +7,9 @@ While I wouldn’t call myself “proficient” yet, I *love exploring code* and
 
 ## ⚒️ What I’m Crafting
 
-- 🎶 [**Music Bot**](https://yuziro.pages.dev/) – Plays your favorite tunes right in your server  
-- 🧩 [**Management Bot**](https://yuziro.pages.dev/) – Simple server automation and utilities  
-- 🌐 [**My Website**](https://yuziro.pages.dev/) – Central hub for everything I do ( socials, introduction )
+- 🎶 [**Music Bot**]() – Plays your favorite tunes right in your server  
+- 🧩 [**Management Bot**]() – Simple server automation and utilities  
+- 🌐 [**My Website**]() – Central hub for everything I do ( socials, introduction )
 
 ---
 
