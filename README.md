@@ -7,9 +7,9 @@ While I wouldn’t call myself “proficient” yet, I *love exploring code* and
 
 ## ⚒️ What I’m Crafting
 
-- 🎶 [**Music Bot**]() – Plays your favorite tunes right in your server  
-- 🧩 [**Management Bot**]() – Simple server automation and utilities  
-- 🌐 [**My Website**]() – Central hub for everything I do ( socials, introduction )
+- 🎶 [**Music Bot**] – Plays your favorite tunes right in your server  
+- 🧩 [**Management Bot**] – Simple server automation and utilities  
+- 🌐 [**My Website**] – Central hub for everything I do ( socials, introduction )
 
 ---
 
